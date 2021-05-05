@@ -1,0 +1,6 @@
+#Archivos para ignorar
+
+.vscode/
+*.exe
+*.obj
+*.tds
